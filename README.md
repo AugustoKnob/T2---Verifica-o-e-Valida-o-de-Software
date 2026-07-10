@@ -15,7 +15,7 @@ O sistema analisado é uma loja virtual composta por um catálogo de produtos, c
 
 ### 🔗 Repositório Original
 O código-fonte base utilizado para este trabalho provém do repositório público de **Zhu Lin**:
-👉 [SpringBoot-Angular7-Shopping Cart](https://github.com/zhulinn/SpringBoot-Angular7-Shopping) (estruturado nas branches *backend* e *frontend*).
+👉 [SpringBoot-Angular7-Shopping Cart](https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store) (estruturado nas branches *backend* e *frontend*).
 
 ---
 
