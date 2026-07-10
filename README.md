@@ -25,11 +25,3 @@ O código-fonte base utilizado para este trabalho provém do repositório públi
 * Java 11 & Maven
 * Node.js & npm 
 * PostgreSQL
-
-### Passos para Execução
-
-#### Backend
-1. Certifique-se de que o PostgreSQL está rodando e configure o datasource no arquivo `backend/src/main/resources/application.yml`.
-2. Acesse a pasta do backend:
-   ```bash
-   cd backend
