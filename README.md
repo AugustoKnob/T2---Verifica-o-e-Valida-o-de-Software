@@ -2,7 +2,7 @@
 
 Este repositório contém o relatório e a implementação de testes desenvolvidos para o **Trabalho 2 de Verificação e Validação de Software** da **Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)**, na Escola Politécnica. 
 
-**Autores:** Augusto Knob e Bernardo Zenglein [cite: 4]  
+**Autores:** Augusto Knob e Bernardo Zenglein
 **Ano:** 2026
 
 ---
